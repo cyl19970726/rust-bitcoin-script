@@ -21,7 +21,7 @@ lazy_static = "1.4.0"
 hex = "0.4.3"
 proc-macro2 = "1.0.51"
 
-[patch.crates-io.base58check]
+[patch.crates-io.base58ck]
 git = "https://github.com/cyl19970726/rust-bitcoin"
 branch = "merge"
 
