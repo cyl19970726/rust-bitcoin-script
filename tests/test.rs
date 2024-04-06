@@ -1,4 +1,4 @@
-#![feature(proc_macro_hygiene)]
+
 
 use bitcoin::{opcodes::all::OP_ADD, ScriptBuf};
 use bitcoin_script::{define_pushable, script};
