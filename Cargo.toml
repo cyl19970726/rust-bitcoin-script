@@ -14,7 +14,7 @@ proc-macro = true
 
 [dependencies]
 # bitcoin = "0.31.1"
-bitcoin = { git = "https://github.com/cyl19970726/rust-bitcoin", branch = "merge" }
+bitcoin = { git = "https://github.com/cyl19970726/rust-bitcoin", rev = "ffad6f3" }
 quote = "1.0.23"
 proc-macro-error = "1.0.4"
 lazy_static = "1.4.0"
